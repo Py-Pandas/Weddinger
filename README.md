@@ -5,7 +5,7 @@ ____
 
 
 <p align="center">
-  <a href="https://github.com/organs-2021/no-mask-catcher"><img src="https://image.freepik.com/free-vector/face-mask-logo-template_23-2148691676.jpg" alt="Mask catcher"></a>
+  <a href="https://github.com/organs-2021/Weddinger"><img src="https://cdn.picpng.com/wedding/pic-wedding-41304.png" alt="Mask catcher"></a>
 </p>
 
 <p align="center">
