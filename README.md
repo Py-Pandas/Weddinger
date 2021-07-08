@@ -1,6 +1,13 @@
-# Team name : Py-pandas
+# Team name : PyPandas
 # Project name : Weddinger
 
+
+## Contributers:
+### Abed alaziz alsalahat
+### Faisal abuzaid
+### Muhannad almughrabi
+### Noor Omari
+### Tala Hajeer
 ____
 
 
@@ -31,7 +38,6 @@ ____
     </a>
 
 </p>
-
 
 
 # Wireframe:
