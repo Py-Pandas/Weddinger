@@ -1,8 +1,8 @@
-# Team name : PyPandas
-# Project name : Weddinger
+# Project name: Weddinger
+___
+# Team name: PyPandas
 
-
-## Contributers:
+## Team members:
 ### Abed alaziz alsalahat
 ### Faisal abuzaid
 ### Muhannad almughrabi
@@ -35,59 +35,24 @@ ____
 
 <a href="https://twitter.com/intent/follow?screen_name=chrisatmachine">
       <img src="https://img.shields.io/twitter/follow/chrisatmachine?style=social&logo=twitter" alt="follow on Twitter">
-    </a>
+</a>
 
 </p>
 
 
-# Wireframe:
+___
 
-![img](Final_proje_Wireframe.png)
+<br>
 
-____
+# Synopsis: 
 
-# User Stories: 
+<h3>A wedding arrangement website that allows the user to book any wedding hall for their event(wedding, party, etc...) and choose ant setup as they wish. choosing photographer, wedding hall accessories (flowers, sheets, lights, etc...), Cake, etc...</h3>
+<br>
 
-1. As a Couple I want to search for a wedding avenue and wedding planning companies.
+## Mission:
 
-2. As a Couple I want to choose a photographer and accessories for the wedding. 
+<h3>To make wedding planning easier, and to make 
+this more modern and automated.</h3>
 
-3. As a Couple I want book my wedding on a date from my choosing.
-
-4. As a provider I want the ability to add my Brand and services. 
-
-5. As a provider I want the ability to set my own price and conditions. 
-
-6. As an associate I want the ability to show my previous works. 
-
-7. As an associate I want the ability to set my own conditions and price.
-
-
-8. STRETCH - As a couple I want the ability to set a wedding budget. 
-
-9. STRETCH - As a couple I want the ability to compare prices.
-
-____
-
-# Features: 
-
-1. Couples accounts with their data saved on it. 
-
-2. Search for whatever you like. 
-
-3. Allow the providers to register themselves with their prices and conditions. 
-
-4. Allow associates to register themselves with and talk about their work. 
-
-5. Couples have the ability to choose from a list of defferent categories. 
-
-6. Pictures and images will be provided by all providers and associates so the couples can see.
-
-____
-
-
-# Acceptance user tests: 
-
-
-
+<br>
 
